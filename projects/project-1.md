@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: <"hb.png">
 title: Video Game Design
 permalink: projects/gamedesign
 # All dates must be YYYY-MM-DD format!
