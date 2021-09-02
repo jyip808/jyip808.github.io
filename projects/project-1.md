@@ -17,6 +17,11 @@ While I would do build the project in the engine, do the coding, and do gameplay
 progress. I first started working in Unity in high school before I had taken any programming class. I had no idea how to code or how to use Unity and completely learned
 how to use the engine and how to code from various youtube videos. These projects are not released to the public and I hope to release them when they are completed.
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/hb.png">
+</div>
+
+
 I'll breifly share the current project I am working. The project I am currently working on is titled Homebound. It originally started as the final project for my ICS 111 
 class and this is a continuation/redo of the same project. It carries the same ideas and themes over but the delivery is completely different. The games main theme is to
 explore the meaning of a home. My goal is to convey this theme through purely through visual storytelling and game mechanics. 
