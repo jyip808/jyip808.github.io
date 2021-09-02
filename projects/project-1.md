@@ -19,6 +19,7 @@ how to use the engine and how to code from various youtube videos. These project
 
 <div class="ui rounded images">
   <img class="ui image" src="../images/hb.png">
+  <img class="ui image" src="../images/hb2.png">
 </div>
 
 
