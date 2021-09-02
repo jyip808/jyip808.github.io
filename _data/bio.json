@@ -3,13 +3,13 @@
     "name": "Justin Yip",
     "label": "Student",
     "picture": "",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "jyip808@hawaii.edu",
+    "phone": "",
+    "website": "https://jyip808.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jyip808",
+        "url": "http://github.com/jyip808"
       },
       {
         "network": "linkedin",
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Video game design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
@@ -62,11 +62,11 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "",
+        ""
       ]
     },
     {
@@ -84,9 +84,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science and Animation",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-Fall",
       "endDate": "Present",
       "gpa": "",
       "courses": [
