@@ -12,6 +12,8 @@ labels:
 summary: Helped the creationa and funding of a $400,000 project on Kaiser High School
 ---
 
+<img class="ui medium right floated rounded image" src="../images/Capture.png">
+
 In my junior and senior years of high school I worked on project for creating a new location for students to gather. The goal was to create a place where students can 
 gather, study, and relax in a central location on campus. Working within the student goverment class, we spoke to experts, professionals, and engineer's to get and idea
 and cost of the scope of the project. My role as the technology coordinator lead me to create the design and look of the project. I created a visual representation
