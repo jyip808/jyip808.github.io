@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "96825",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "Art/Graphic Design",
       "keywords": [
         "",
         ""
@@ -107,57 +107,16 @@
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
+      "company": "Kumon",
+      "position": "Tutor",
+      "website": "https://www.kumon.com/aina-haina-hi/",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Corrected papers amd Helped students with their work",
       "highlights": [
         "",
         ""
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
