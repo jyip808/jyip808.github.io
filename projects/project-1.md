@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hbs.png
+image: images/hbss.png
 title: homebound
 permalink: projects/homebound
 # All dates must be YYYY-MM-DD format!
