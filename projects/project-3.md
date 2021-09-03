@@ -11,5 +11,3 @@ labels:
   - 
 summary: 
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
