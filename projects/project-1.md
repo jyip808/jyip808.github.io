@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/hb.png
-title: Video Game Design
-permalink: projects/gamedesign
+title: homebound
+permalink: projects/homebound
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
 labels:
   - game design
-summary: My Personal Projects in Video game design.
+summary: homebound a 2D puzzle platformer
 ---
 
 
