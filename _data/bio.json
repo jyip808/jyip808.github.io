@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "justinyip",
         "url": "http://linkedin.com/in/justin-yip-bb305421b"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -41,17 +31,10 @@
     {
       "name": "Art/Graphic Design",
       "keywords": [
-        "",
-        ""
       ]
     },
     {
       "name": "Video game design",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
       "keywords": [
       ]
     }
@@ -64,20 +47,14 @@
         "C",
         "C#",
         "Java",
-        "Javascript",
-        "",
-        ""
+        "Javascript"
       ]
     },
     {
-      "name": "",
+      "name": "Game Development",
       "level": "",
       "keywords": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Unity"
       ]
     }
   ],
@@ -114,8 +91,6 @@
       "endDate": "",
       "summary": "Corrected papers amd Helped students with their work",
       "highlights": [
-        "",
-        ""
       ]
     }
   ],
