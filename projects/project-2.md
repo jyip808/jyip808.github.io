@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/asts.png
+image: images/astss.png
 title: A Strange Town
 permalink: projects/AStrangeTown
 # All dates must be YYYY-MM-DD format!
