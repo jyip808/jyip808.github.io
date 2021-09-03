@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capture.png
+image: images/Capture.PNG
 title: Kaiser High School Gathering Place
 permalink: projects/KaiserHighSchoolGatheringPlace
 # All dates must be YYYY-MM-DD format!
