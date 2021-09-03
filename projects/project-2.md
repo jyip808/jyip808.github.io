@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: 
-title: 
+title: A Strange Town
 permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 
