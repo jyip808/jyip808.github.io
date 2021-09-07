@@ -9,7 +9,7 @@ date: 2021-09-02
 labels:
   -KHS
   -Student Goverment
-summary: Helped the creationa and funding of a $400,000 project on Kaiser High School
+summary: Helped the creation and funding of a $400,000 project on Kaiser High School
 ---
 
 <img class="ui medium right floated rounded image" src="../images/Capture.PNG">
