@@ -17,6 +17,7 @@ can be a hard and confusing and asking questions is the fastest way to learn and
 The following is an good example of how to ask a question. Here the user states the two programs they are using and the issue they are expereiencing. In the desscription 
 the user provides a gif showing the issue visually and also provides useful information such as the version of the two programs and fact that they do have a necessary
 data pack installed. This user is correctly asking question because they are clear and concise and also uses a visual aid to provide an example of the issue. 
+
 https://stackoverflow.com/questions/42597501/unity-scripts-edited-in-visual-studio-dont-provide-autocomplete
 
 The following is a bad example of how to ask a question.
