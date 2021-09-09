@@ -18,13 +18,13 @@ The following is an good example of how to ask a question. Here the user states 
 the user provides a gif showing the issue visually and also provides useful information such as the version of the two programs and fact that they do have a necessary
 data pack installed. This user is correctly asking question because they are clear and concise and also uses a visual aid to provide an example of the issue. 
 
-<img class="ui medium floated rounded image" src="../images/ask11.png">
+<src="../images/ask11.png">
 
 https://stackoverflow.com/questions/42597501/unity-scripts-edited-in-visual-studio-dont-provide-autocomplete
 
 The following is a bad example of how to ask a question. This user starts their question with "This is probably a beginners question." instead of going directly into
 thier question. This is an example of meaningless words. In addition, they also state their use of unity at the end of their description. This is context is important to the question and putting it at the end doesn't help responders. 
 
-<img class="ui medium floated rounded image" src="../images/ask22.png">
+<src="../images/ask22.png">
 
 https://stackoverflow.com/questions/13581655/disposing-needed-in-unity
