@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: No Such Thing as a Stupid Question?
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-08
 labels:
