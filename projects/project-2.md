@@ -18,7 +18,7 @@ before I knew or took any programming class. All my knowlage for this project wa
 took in my path towards becoming a game designer. I made a lot of mistakes and learned a lot from this one project. I worked on this project with a friend. She did the 
 art and graphics while I did the coding and game engine work. A lot of my code was messy and hard to read and inefficent but this all taught me what not to do in the
 future. 
-<img class="ui medium right floated rounded image" src="../images/astm.png">
+<img class="rounded image" src="../images/astm.png">
 
 A Strange Town is a top down puzzle game created in the Unity engine. The players play as a kid named Luke who gets lost in a forest stubles upon a town. Here he meets 
 the towns inhabitants and gets to know them. But through some investigation and clues, he finds out that the town and its townsfolk are not what they appear to be. 
@@ -27,6 +27,6 @@ Players explore the town, solve puzzles, and get to know the townsfolk in the pr
 Even though, A Strange Town never got completed but it still taught me a lot. The learning and the first time experience is the most important thing to me about this
 project. Hopefully one day I'll get to return to it and explore its concept and ideas once again. 
 
-<img class="ui medium right floated rounded image" src="../images/ast.png">
+<img class="rounded image" src="../images/ast.png">
 
  
