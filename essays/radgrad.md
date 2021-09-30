@@ -21,4 +21,6 @@ quriks I have with it.
 First, the program seems to have little exposure. Apart from the emails and professors who very breifly mention the program I wasn't explain to at all that it was a 
 planner. I only figured out what kinda of application it was after using it. I think the fact that it is a planner should be the main selling point. But the fact that
 it is a planner is also a down side. It has very similar functionality like Star except that it is more focus and oritanted for ICS students. It has a lot of features
-I wish Star had. So its presence is needed and justified. But at the same time I wish I didn't need to log into a seperate website to use its tools.
+I wish Star had. So its presence is needed and justified. But at the same time I wish I didn't need to log into a seperate website to use its tools. There were also some
+glaring bugs I ran into during my usage. I didn't even use the web app for long and I had already encountered some bugs. They weren't exteremely fustrating to work 
+around but they did still pose an issue.
