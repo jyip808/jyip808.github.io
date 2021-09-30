@@ -1,13 +1,15 @@
 ---
 layout: essay
 type: essay
-title: 
+title: The Radest of Grads 
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-29
 labels:
   - Software Engineering
   - Learning
-  - Coding
+  - Radgrad
+  - ICS
+  - College
 ---
 
 Navigating through college to me is like driving a car. I don't have a permit, I'm on the freeway, my brakes are broken, and I’m driving a 2001 Toyota Corolla. I'm 
