@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Radest of Grads 
+title: The Rad-est of Grads 
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-29
 labels:
