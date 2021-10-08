@@ -21,7 +21,9 @@ Semantic UI gives a lot of options and styles so that you can create a menu that
 
 Before using Semantic UI, I have never coded in HTML and CSS, which to my relief was easier to learn than expected. No to my relief was how difficult it was to get spacing, and formatting correct. This was an entirely new learning experience for me, and it was an eye opener. I’m almost certain that in the future I will have to design and create my own website so learning this was a huge plus for me and future me. 
 
+Before Semantic UI
  ![image](https://user-images.githubusercontent.com/89873541/136514699-ab358859-10e0-409b-8eca-5dcc73feaa9d.png)
 
+After Semantic UI
  ![image](https://user-images.githubusercontent.com/89873541/136514732-2939b038-f484-4041-a5f2-26c99ccfc16b.png)
 
