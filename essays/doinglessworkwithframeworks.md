@@ -20,3 +20,8 @@ With the usage of frameworks can greatly relieve headaches. Frameworks are basic
 Semantic UI gives a lot of options and styles so that you can create a menu that fits your website.  If I had to use raw HTML and CSS to make a website, I’d spend way too many hours trying to get the padding and margins right and in about the third hour in I would probably give up and take an anger nap. The main point of frameworks in my opinion is the amount of time it saves. I think we all can agree we want to work less and get more done, and frameworks is the solution to that problem, for HTML and CSS. 
 
 Before using Semantic UI, I have never coded in HTML and CSS, which to my relief was easier to learn than expected. No to my relief was how difficult it was to get spacing, and formatting correct. This was an entirely new learning experience for me, and it was an eye opener. I’m almost certain that in the future I will have to design and create my own website so learning this was a huge plus for me and future me. 
+
+ ![image](https://user-images.githubusercontent.com/89873541/136514699-ab358859-10e0-409b-8eca-5dcc73feaa9d.png)
+
+ ![image](https://user-images.githubusercontent.com/89873541/136514732-2939b038-f484-4041-a5f2-26c99ccfc16b.png)
+
