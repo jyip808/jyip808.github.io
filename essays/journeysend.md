@@ -28,5 +28,4 @@ For example, the game engine unity uses a factory type design pattern making use
 them. Being able to recognize and using these patterns are important because many game engines will use these patterns. Being able to understand these patterns will 
 allow me to use the engine better and maybe one day be able to create my own engine. This class allowed me to dip my toes into the water and gain valuable insight on 
 to how create applications, databases, and how to use design patterns in software engineering. 
-
-The final project in class was a group pro
+The final project in class was a group project which was also done in meteor. Working in a group was also a insightful experience since we used github to collabratively work on the project together. This was my first time working on a application in a group using github. This allowed me to experience how to use githubs boards and issues. I'm almost certain that this won't be my last time using github to make an application so the experience using github was very eye opening.
