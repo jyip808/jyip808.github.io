@@ -1,13 +1,11 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Journey's End 
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-02
 labels:
   - Software Engineering
-  - Design Patterns
-  - Art
 ---
 
 
