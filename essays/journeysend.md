@@ -6,6 +6,10 @@ title: Journey's End
 date: 2021-12-02
 labels:
   - Software Engineering
+  - Learning
+  - Meteor
+  - Javascript
+  - Mongo
 ---
 
 
