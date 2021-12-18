@@ -13,7 +13,7 @@ labels:
 ---
 
 
-In ICS 311 I learned a lot. I learned about programming in HTML, JavaScript, React, the meteor application platform, and mongo databases. I think the most important 
+In ICS 314 I learned a lot. I learned about programming in HTML, JavaScript, React, the meteor application platform, and mongo databases. I think the most important 
 things I learned in my class was the meteor application platform and the mongo databases. The meteor application platform taught me about design patterns in software 
 engineering. Design patterns are techniques that software engineers use to create their applications. The meteor application platform allows use different languages 
 and the organizes the user interface and the database, such as mongo, so that they are easy to implement and use collectively. I think these were the most important 
@@ -27,4 +27,6 @@ Being familiar with design patterns like Meteor was also very helpful because in
 For example, the game engine unity uses a factory type design pattern making use of components, which are set objects with different types of properties already tied to 
 them. Being able to recognize and using these patterns are important because many game engines will use these patterns. Being able to understand these patterns will 
 allow me to use the engine better and maybe one day be able to create my own engine. This class allowed me to dip my toes into the water and gain valuable insight on 
-to how create applications, databases, and how to use design patterns in software engineering.  
+to how create applications, databases, and how to use design patterns in software engineering. 
+
+The final project in class was a group pro
