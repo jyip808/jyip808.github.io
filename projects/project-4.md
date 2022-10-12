@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/Capturess.PNG
 title: Chronoblade
 permalink: projects/chronoblade
 # All dates must be YYYY-MM-DD format!
