@@ -5,7 +5,7 @@ type: project
 image: 
 title: Chronoblade
 permalink: projects/chronoblade
-# All dates must be YYYY-MM-DD format!
+#All dates must be YYYY-MM-DD format!
 date: 2022-010-011
 labels:
   - game design
