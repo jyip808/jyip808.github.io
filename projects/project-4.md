@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capturess.PNG
+image: 
 title: Chronoblade
 permalink: projects/chronoblade
 # All dates must be YYYY-MM-DD format!
@@ -9,7 +9,7 @@ date: 2022-10-11
 labels:
   -game development
   -game design
-summary: Chronoblade: a topdown rougelike hack and slash made for 7DRL 2021 game jam
+summary: Chronoblade, a topdown rougelike hack and slash made for 7DRL 2021 game jam
 ---
 
 7DRL is short for 7 Day RougeLike, it is a game jam that runs yearly with the sole requirement for games submitted to the jam being that they
