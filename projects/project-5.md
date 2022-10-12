@@ -11,15 +11,10 @@ labels:
   -Student Goverment
 summary: Helped the creation and funding of a $400,000 project on Kaiser High School
 ---
-
-<img class="ui medium right floated rounded image" src="../images/Capture.PNG">
-
-In my junior and senior years of high school I worked on project for creating a new location for students to gather. The goal was to create a place where students can 
-gather, study, and relax in a central location on campus. Working within the student goverment class, we spoke to experts, professionals, and engineer's to get and idea
-and cost of the scope of the project. My role as the technology coordinator lead me to create the design and look of the project. I created a visual representation
-through photoshop. This visual was used when presenting the project to others. Our efforts lead us to presenting the project to our local representatives and senator.
-Through our lobbying and with the help of our representatives and senators we were able to raise $400,000 for the project.
-
-The project took about one year to complete from planning to the finished construction of the project. This is one of the projects I am proud of because I know that
-future generations of students will be able to enjoy and benefit from even though they may not know who I am. It will have a long lasting impression on my community
-and knowing that I had a direct hand in the process is priceless.
+7DRL is short for 7 Day RougeLike, it is a game jam that runs yearly with the sole requirement for games submitted to the jam being that they
+must be rougelikes. Chronoblade is a topdown rougelike hack and slash that was made for 7DRL 2021 game jam. This game was created with the University of 
+Manoa Game Dev club. Development on this game first strarted when I pitched this idea to the club. The club liked my idea made we went off trying to make the
+game into reality in seven days. For this project I headed the design of the game. This included the story, game mechanics, and visual design. I also worked on
+the art for this jam. The created the player character, some of the UI elements, some of the enemies and their animations, and the music. Due to the time 
+restraints the story of the game didn't make it in. Story was written for the game and voicelines were recorded. Besides that most of the development goals
+were reached and the game features and final boss. If I were to 
