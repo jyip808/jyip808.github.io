@@ -18,4 +18,6 @@ Manoa Game Dev club. Development on this game first strarted when I pitched this
 game into reality in seven days. For this project I headed the design of the game. This included the story, game mechanics, and visual design. I also worked on
 the art for this jam. The created the player character, some of the UI elements, some of the enemies and their animations, and the music. Due to the time 
 restraints the story of the game didn't make it in. Story was written for the game and voicelines were recorded. Besides that most of the development goals
-were reached and the game features and final boss. If I were to.
+were reached and the game features and final boss. If I could improve one thing I would try to make the game play more polished. 
+
+You can try the game out here: https://justiny.itch.io/chronoblade
