@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/rougepic2.png 
 title: Chronoblade
 permalink: projects/chronoblade
 # All dates must be YYYY-MM-DD format!
@@ -11,6 +11,10 @@ labels:
   -game design
 summary: Chronoblade, a topdown rougelike hack and slash made for 7DRL 2021 game jam
 ---
+
+<div class="ui rounded images">
+  <img class="ui image" src="../images/rouge.png">
+</div>
 
 7DRL is short for 7 Day Roguelike, it is a game jam that runs yearly with the sole requirement for games submitted to the jam being that they must be roguelikes. Chronoblade is a top-down roguelike hack and slash created with the University of Manoa Game Dev club. For this project I headed the design of the game, created art assets, namely the player character and an enemy, and scored the game with original music. 
 
