@@ -1,4 +1,4 @@
----
+
 layout: project
 type: project
 image: images/astss.png
@@ -11,7 +11,6 @@ labels:
   - Unity
   - C#
 summary: A Strange Town a 2D top down puzzle game 
----
 
 I always knew I wanted to design and create games when I was a kid and A Strange Town was my first steps in becoming a game designer. This project started in high school
 before I knew or took any programming class. All my knowlage for this project was purely from youtube videos I watched online. This project is one of the biggest leaps I
