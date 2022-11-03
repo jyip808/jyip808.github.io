@@ -22,5 +22,5 @@ The design of the game revolved around the use of the three different mechs and 
 
 Our design focused on the interaction between the three different characters. We knew that this aspect is what made our puzzle platformer apart from the genre. We designed levels that made the player use the different abilities together. We wanted to emphasize the unique interactions between the three. The game features three levels, with the first level being the tutorial and the third level being the most difficult.
 
-If you'd like the try out the game: https://justiny.itch.io/untitled-mech-game
+Try out the game here: https://justiny.itch.io/untitled-mech-game
 
