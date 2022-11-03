@@ -9,6 +9,8 @@ date: 2022-11-02
 labels:
   -game development
   -game design
-summary: A puzzle platformer where players solve puzzles using three different mechs and their abilities
+summary: Cleansweep is an arcade topdown house management game created for black and white jam 2022
 ---
 
+Cleansweep is an arcade topdown house management game created for black and white jam 2022
+A puzzle platformer where players solve puzzles using three different mechs and their abilities
