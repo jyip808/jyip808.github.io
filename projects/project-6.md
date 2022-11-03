@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image/Screen Shot 2022-08-10 at 10.41.09 AM.png
+image: images/Screen Shot 2022-08-10 at 10.37.57 AM.png
 title: Untitled Mech Game
 permalink: projects/untitledmechgame
 # All dates must be YYYY-MM-DD format!
