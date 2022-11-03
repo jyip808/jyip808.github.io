@@ -6,7 +6,7 @@
     "email": "jyip808@hawaii.edu",
     "phone": "",
     "website": "https://jyip808.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a B.A in Animation at the Academy of Creative Media at the University of Hawaii.",
     "location": {
       "address": "",
       "postalCode": "96825",
@@ -52,14 +52,18 @@
         "C",
         "C#",
         "Java",
-        "Javascript"
+        "Javascript",
+        "C++",
+        "HTML",
+        "CSS"
       ]
     },
     {
       "name": "Game Development",
       "level": "",
       "keywords": [
-        "Unity"
+        "Unity Engine",
+        "Unreal Engine"
       ]
     }
   ],
