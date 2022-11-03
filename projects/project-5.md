@@ -11,6 +11,9 @@ labels:
   -game design
 summary: Cleansweep is an arcade topdown house management game created for black and white jam 2022
 ---
+<div class="ui rounded images">
+  <img class="ui image" src="../images/cleansweeptoilet.png ">
+</div>
 
 Clean sweep was made for the black and white jam 2022. The theme of the jam is to only use the colors black and white. I made this game with the University of Manoa game development club. The game was made with the Unity game engine. I coded some of the mini games, designed game mechanics, and made some of the art assets for the game. 
 
