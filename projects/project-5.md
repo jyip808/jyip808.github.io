@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/Screen Shot 2022-06-16 at 10.45.36 PM.png
 title: Cleansweep
 permalink: projects/cleansweep
 # All dates must be YYYY-MM-DD format!
