@@ -29,12 +29,22 @@
   },
   "interests": [
     {
-      "name": "Art/Graphic Design",
+      "name": "Video game design",
       "keywords": [
       ]
     },
     {
-      "name": "Video game design",
+      "name": "2D/3D Animation",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Film",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Unity Game Engine",
       "keywords": [
       ]
     }
