@@ -37,11 +37,6 @@
       "name": "Video game design",
       "keywords": [
       ]
-    },
-    {
-      "name": "Music Composing",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -53,7 +48,6 @@
         "C#",
         "Java",
         "Javascript",
-        "C++",
         "HTML",
         "CSS"
       ]
@@ -62,8 +56,7 @@
       "name": "Game Development",
       "level": "",
       "keywords": [
-        "Unity Engine",
-        "Unreal Engine"
+        "Unity Engine"
       ]
     }
   ],
