@@ -1,4 +1,3 @@
----
 layout: project
 type: project
 image: images/Capturess.PNG
@@ -10,7 +9,6 @@ labels:
   -KHS
   -Student Goverment
 summary: Helped the creation and funding of a $400,000 project on Kaiser High School
----
 
 <img class="ui medium right floated rounded image" src="../images/Capture.PNG">
 
