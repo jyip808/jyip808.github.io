@@ -77,18 +77,29 @@
       "studyType": "B.S,B.A",
       "startDate": "2019-Fall",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.44",
       "courses": [
       ]
     }
   ],
   "work": [
+     {
+      "company": "UH Manoa Laboratory for Advanced Visualization Applications",
+      "position": "Research Assiatant",
+      "website": "https://www.lavaflow.info/",
+      "startDate": "2023-04-24",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Virtual Reality Development using Unity game engine"
+      ]
+    },
     {
       "company": "UH Manoa Desktop Network Services",
       "position": "Computer & Network Support Specialist",
       "website": "",
       "startDate": "2021-03-16",
-      "endDate": "Present",
+      "endDate": "2023-08-21",
       "summary": "",
       "highlights": [
         "Maintain and update the DNS computers in Hamilton Library",
