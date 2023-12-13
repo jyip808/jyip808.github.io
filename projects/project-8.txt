@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: images/hbss.png
+title: Hawaii State Energy Office Virtual Reality Project
+permalink: projects/hseo
+# All dates must be YYYY-MM-DD format!
+date: 2023-21-11
+labels:
+ - VR
+ - HSEO
+summary: A virtrual reality experience covering Hawaii's energy sources made for the Hawaii State Energy Office
+---
+
+<div class="ui rounded images">
+  <img class="ui image" src="../images/hb.png">
+  <img class="ui image" src="../images/hb2.png">
+</div>
+
+At the Laboratory for Advanced Visualizations and Applications (LAVA) I am assigned to work on a project contracted by the Hawaii State Energy Office (HSEO) to develop a virtural reality app 
+
