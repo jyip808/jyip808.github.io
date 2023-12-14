@@ -12,7 +12,7 @@ labels:
 summary: A 2D topdown rougelike shooter
 ---
 
-<video width="320" height="240" autoplay>
+<video autoplay>
     <source src="images/sample-gameplay1.mp4" type="video/mp4">
 </video>
 
