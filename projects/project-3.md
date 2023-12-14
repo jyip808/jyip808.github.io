@@ -7,8 +7,8 @@ permalink: projects/hseo
 # All dates must be YYYY-MM-DD format!
 date: 2023-21-11
 labels:
- -VR
- -HSEO
+  -VR
+  -HSEO
 summary: A virtrual reality experience covering Hawaii's energy sources made for the Hawaii State Energy Office
 ---
 
