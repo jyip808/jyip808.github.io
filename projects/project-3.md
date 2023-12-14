@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hbss.png
+image: images/hseomain.png
 title: Hawaii State Energy Office Virtual Reality Project
 permalink: projects/hseo
 # All dates must be YYYY-MM-DD format!
