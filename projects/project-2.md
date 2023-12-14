@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hbss.png
+image: images/dust.png
 title: An Answer for the Dust
 permalink: projects/dust
 # All dates must be YYYY-MM-DD format!
