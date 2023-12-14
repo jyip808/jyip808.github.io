@@ -12,4 +12,10 @@ labels:
 summary: A virtrual reality experience covering Hawaii's energy sources made for the Hawaii State Energy Office
 ---
 
+<figure class="video_container">
+  <video controls="true" autoplay="" loop="" muted="" playsinline="" style="object-fit: cover; width: 100%; height: 100%;">
+    <source src="../images/hseoshort.mp4" type="video/mp4">
+  </video>
+ </figure>
+
 At the Laboratory for Advanced Visualizations and Applications (LAVA) I am assigned to work on a project contracted by the Hawaii State Energy Office (HSEO) to develop a virtural reality tour. The tour takes users around to all the energy locations around the island. The tour also includes future projects such as the offshore windfarm and expanded solar farm. My work involves the filming of 360 videos of the featured locations and adding them into the application. I also created the user interface and designed the flow of user naviagation. 
