@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/hbss.png
-title: homebound
-permalink: projects/homebound
+title: An Answer for the Dust
+permalink: projects/dust
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-01
+date: 2023-05-20
 labels:
   - game design
 summary: A 2D topdown rougelike shooter
