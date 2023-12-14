@@ -8,7 +8,7 @@ permalink: projects/homebound
 date: 2021-09-01
 labels:
   - game design
-summary: A short puzzle platformer that explores the meaning of home
+summary: A short puzzle platformer that explores the meaning of home. Released on Steam September 22, 2023
 ---
 
 <div class="ui rounded images">
