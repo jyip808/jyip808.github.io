@@ -7,8 +7,8 @@ permalink: projects/dust
 # All dates must be YYYY-MM-DD format!
 date: 2023-20-05
 labels:
-  - game design
-  - game development
+  -game design
+  -game development
 summary: 2D top down rougelike shooter
 ---
 
