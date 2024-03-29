@@ -59,8 +59,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Portfolio | Justin Yip";
+            $("#favicon").attr("href", "assets/images/icon.png");
         }
         else {
             document.title = "Come Back To Portfolio";
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
+    strings: ["game design", "game development", "narrative design"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
