@@ -1,7 +1,7 @@
 [
     {
         "name": "Unity",
-        "icon": "/assets/images/unityIcon.png"
+        "icon": "https://icons8.com/icon/39848/unity"
     },
     {
         "name": "ReactJS",
@@ -25,10 +25,34 @@
     },
     {
         "name": "C++",
+        "icon": "https://icons8.com/icon/45490/c-sharp-logo-2"
+    },
+    {
+        "name": "C#",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "C",
+        "icon": "https://icons8.com/icon/40670/c-programming"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://icons8.com/icon/3767/sql"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://icons8.com/icon/13677/adobe-photoshop"
+    },
+    {
+        "name": "Premiere",
+        "icon": "https://icons8.com/icon/e57Y1CnsOasB/adobe-premiere-pro"
+    },
+    {
+        "name": "SQL",
+        "icon": "https://icons8.com/icon/3767/sql"
     }
 ]
