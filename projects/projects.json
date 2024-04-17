@@ -7,6 +7,15 @@
     "links": {
       "view": "https://store.steampowered.com/app/2568870/homebound/"
     }
+  },  
+  {
+    "name": "Hawaii State Energy Office Virtual Tour",
+    "desc": "Virtual reality tour of the different energy locations on the island featuring 360 degree video taken from the sites used by the Hawaii State Energy Office outreach programs.",
+    "image": "dust",
+    "category": "untiy",
+    "links": {
+      "view": "https://arisestudios.github.io/pending.zombies.io/"
+    }
   },
   {
     "name": "An Answer for the Dust",
