@@ -24,11 +24,11 @@
         "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
     },
     {
-        "name": "C++",
+        "name": "C#",
         "icon": "https://icons8.com/icon/45490/c-sharp-logo-2.png"
     },
     {
-        "name": "C#",
+        "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
@@ -54,9 +54,5 @@
     {
         "name": "Premiere",
         "icon": "https://icons8.com/icon/e57Y1CnsOasB/adobe-premiere-pro"
-    },
-    {
-        "name": "SQL",
-        "icon": "https://icons8.com/icon/3767/sql"
     }
 ]
