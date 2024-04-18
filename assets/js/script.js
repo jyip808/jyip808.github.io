@@ -56,7 +56,7 @@ $(document).ready(function () {
 
 });
 
-document.addEventListener('visibilitychange',
+/*document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Justin Yip";
@@ -66,7 +66,7 @@ document.addEventListener('visibilitychange',
             document.title = "Come Back To Portfolio";
             $("#favicon").attr("href", "assets/images/favhand.png");
         }
-    });
+    });*/
 
 
 // <!-- typed js effect starts -->
