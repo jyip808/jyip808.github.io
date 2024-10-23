@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: #343434;
   font-family: "Poppins", sans-serif;
 }
 
@@ -70,21 +70,21 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #fff;
+  background-color: #2f2f2f;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
-  min-height: 100vh;
+  min-height: 70vh;
   padding: 2rem 9%;
 }
 .heading {
   font-size: 3.5rem;
-  color: rgb(32, 32, 32);
+  color: rgb(255, 255, 255);
   font-weight: 800;
   text-align: center;
 }
 .heading span {
-  color: rgb(115, 3, 167);
+  color: #9dd5ff
 }
 header .logo {
   font-size: 1.9rem;
@@ -109,7 +109,7 @@ header .navbar li {
 }
 header .navbar ul li a {
   font-size: 1.57rem;
-  color: #0e2431;
+  color: #9dd5ff;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.04rem;
@@ -117,8 +117,8 @@ header .navbar ul li a {
 }
 header .navbar ul li a.active,
 header .navbar ul li a:hover {
-  color: #011aff;
-  border-bottom: 0.2rem solid #011aff;
+  color: #9dd5ff;
+  border-bottom: 0.2rem solid #9dd5ff;
   padding: 0.5rem 0;
 }
 /* navbar ends */
@@ -224,12 +224,12 @@ header .navbar ul li a:hover {
 .home .content h2 {
   font-size: 5rem;
   font-weight: 800;
-  color: #002057;
+  color: #ffffff;
 }
 .home .content h2 span {
   font-size: 5rem;
   font-weight: 800;
-  color: #ff7b00;
+  color: #9dd5ff;
 }
 .home .content p {
   font-size: 2.5rem;
@@ -346,7 +346,7 @@ header .navbar ul li a:hover {
 
 /* about section starts */
 .about {
-  background: rgb(255, 255, 255);
+  background: #343434;
 }
 .about .row {
   display: flex;
@@ -389,6 +389,7 @@ header .navbar ul li a:hover {
   font-family: "Nunito";
   font-weight: 600;
   text-transform: none;
+  color: rgb(255, 255, 255);
 }
 .about .row .content .box-container {
   display: flex;
@@ -401,7 +402,7 @@ header .navbar ul li a:hover {
   text-transform: none;
 }
 .about .row .content .box-container .box p span {
-  color: #011aff;
+  color: #9dd5ff
 }
 .resumebtn {
   margin-top: 6rem;
@@ -458,13 +459,14 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  background: #343434;
 }
+
 .skills h2 {
   color: #fff;
 }
 .skills .heading span {
-  color: rgb(255, 230, 0);
+  color: #9dd5ff
 }
 .skills .container {
   background: rgba(0, 0, 22, 0.4);
@@ -531,7 +533,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #343434;
   min-height: 80vh;
 }
 .education .qoute {
@@ -582,6 +584,7 @@ header .navbar ul li a:hover {
   padding: 1rem;
   flex-wrap: wrap;
   flex: 1 1 70rem;
+  background: #9dd5ff;
 }
 .education .box-container .box .content h3 {
   font-size: 2.5rem;
@@ -639,10 +642,10 @@ header .navbar ul li a:hover {
 /* work section starts */
 .work {
   /* background: #010124; */
-  background: linear-gradient(to bottom, #000031, #00002c);
+  background: #343434;
 }
 .work h2 {
-  color: #fff;
+  color: #ffffff;
   padding: 1rem;
 }
 .work .heading span {
@@ -685,7 +688,7 @@ header .navbar ul li a:hover {
   height: 4.5rem;
   width: 100%;
   padding-left: 1rem;
-  background: #ffd900;
+  background: #9dd5ff;
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
@@ -766,7 +769,7 @@ header .navbar ul li a:hover {
   content: "";
   position: absolute;
   width: 6px;
-  background: #020133;
+  background: #ffffff;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -787,7 +790,7 @@ header .navbar ul li a:hover {
   height: 25px;
   right: -17px;
   background-color: rgb(255, 255, 255);
-  border: 4px solid #ff9f55;
+  border: 4px solid #9dd5ff;
   top: 15px;
   border-radius: 50%;
   z-index: 100;
@@ -833,7 +836,7 @@ header .navbar ul li a:hover {
   left: -16px;
 }
 .experience .content {
-  background-color: #f68c09;
+  background-color: #9dd5ff;
   position: relative;
   border-radius: 6px;
 }
@@ -907,9 +910,9 @@ header .navbar ul li a:hover {
   }
   .experience .container::before {
     left: 61px;
-    border: medium solid #f68c09;
+    border: medium solid #9dd5ff;
     border-width: 10px 10px 10px 0;
-    border-color: transparent #f68c09 transparent transparent;
+    border-color: transparent #9dd5ff transparent transparent;
   }
   .experience .left::after {
     left: 15px;
@@ -999,7 +1002,7 @@ form .message textarea {
 .field input:focus,
 .message textarea:focus {
   padding-left: 47px;
-  border: 2px solid rgb(115, 3, 167);
+  border: 2px solid rgb(111, 245, 255);
 }
 .field input:focus ~ i,
 .message textarea:focus ~ i {
@@ -1088,7 +1091,7 @@ form .button-area {
 .footer {
   min-height: auto;
   padding-top: 0;
-  background: rgb(0, 1, 43);
+  background: #343434;
 }
 .footer .box-container {
   display: flex;
